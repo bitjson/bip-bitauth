@@ -157,3 +157,6 @@ My hope is that [BitPay's BitAuth](https://github.com/bitpay/bitauth) Node.js pr
 - [Blockstack Auth JS](https://github.com/blockstack/blockstack-auth-js) - Blockstack Auth library, written in node.js
 - [Certcoin](https://github.com/cfromknecht/certcoin) - A Decentralized PKI for Highly-Available Hierarchical Identities
 - [identity-on-bitcoin](https://github.com/domschiener/identity-on-bitcoin) - create identities, anchor them into the Bitcoin Blockchain, and authorize service providers to access specific attributes
+
+### See also
+- [Secure Quick Reliable Login](https://www.grc.com/sqrl/sqrl.htm) - A secure, easy-to-use replacement for usernames, passwords, reminders, one-time-code and authenticators.
